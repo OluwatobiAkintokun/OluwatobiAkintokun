@@ -29,6 +29,8 @@ Microsoft Excel | SQL | Power BI | Tableau | Python
 
 [Medium](https://oluwatobiakintokun.medium.com/)
 
+[Novypro](https://www.novypro.com/profile_about/oluwatobiakintokun)
+
 # Certifications 🏆
 
 [Google Data Analytics](https://coursera.org/share/daa880d1362bae387e1b547274ab6e74)
