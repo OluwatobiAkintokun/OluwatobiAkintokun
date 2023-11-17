@@ -27,6 +27,8 @@ Microsoft Excel | SQL | Power BI | Tableau | Python
 
 [Portfolio](https://github.com/OluwatobiAkintokun)
 
+[Medium](https://oluwatobiakintokun.medium.com/)
+
 # Certifications 🏆
 
 [Google Data Analytics](https://coursera.org/share/daa880d1362bae387e1b547274ab6e74)
