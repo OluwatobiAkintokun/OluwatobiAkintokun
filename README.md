@@ -20,6 +20,7 @@ Microsoft Excel | SQL | Power BI | Tableau | Python
 
 [Project 2](https://github.com/OluwatobiAkintokun/ONLINE-RETAIL-STORE-ANALYSIS-AND-INSIGHTS)
 
+[Project 3](https://github.com/OluwatobiAkintokun/CONTACT-CENTRE-ANALYSIS)
 
 # Connect with me 🌐
 [LinkedIn](https://www.linkedin.com/in/oluwatobi-akintokun-63055712a/)
