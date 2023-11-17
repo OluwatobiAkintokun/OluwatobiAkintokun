@@ -27,6 +27,23 @@ Microsoft Excel | SQL | Power BI | Tableau | Python
 
 [Portfolio](https://github.com/OluwatobiAkintokun)
 
+# Certifications 🏆
+
+[Google Data Analytics](https://coursera.org/share/daa880d1362bae387e1b547274ab6e74)
+
+[CISCO Data Analytics Essentials](https://www.credly.com/badges/fcec739e-dc5f-4448-a189-60831532ab6d/public_url)
+
+[PWC Power BI](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_PQPpMDNdiqtYfQEcD_1693525737863_completion_certificate.pdf)
+
+[KPMG AU Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_PQPpMDNdiqtYfQEcD_1692498910055_completion_certificate.pdf)
+
+[Accenture Data Analytics and Visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_PQPpMDNdiqtYfQEcD_1691096379595_completion_certificate.pdf)
+
+[Tata Data Visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_PQPpMDNdiqtYfQEcD_1692140689186_completion_certificate.pdf)
+
+[Quantium Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_PQPpMDNdiqtYfQEcD_1696983953108_completion_certificate.pdf)
+
+
 I welcome you to explore my repositories and projects, where I apply data analysis to create meaningful impact. Feel free to connect with me to discuss any data-related challenges, share ideas, or explore potential collaborations on interesting projects. Looking forward to engaging with you.
 
 <!---
