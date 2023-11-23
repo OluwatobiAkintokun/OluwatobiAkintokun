@@ -25,7 +25,7 @@ Microsoft Excel | SQL | Power BI | Tableau | Python
 # Connect with me 🌐
 [LinkedIn](https://www.linkedin.com/in/oluwatobi-akintokun-63055712a/)
 
-[Portfolio](https://github.com/OluwatobiAkintokun)
+[Portfolio](https://oluwatobiakintokun.github.io/)
 
 [Medium](https://oluwatobiakintokun.medium.com/)
 
