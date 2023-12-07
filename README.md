@@ -16,11 +16,9 @@ Microsoft Excel | SQL | Power BI | Tableau | Python
 
 # Projects 📈
 
-[Project 1](https://github.com/OluwatobiAkintokun/PROJECT-SOCIAL-BUZZ)
-
-[Project 2](https://github.com/OluwatobiAkintokun/ONLINE-RETAIL-STORE-ANALYSIS-AND-INSIGHTS)
-
-[Project 3](https://github.com/OluwatobiAkintokun/CONTACT-CENTRE-ANALYSIS)
+I invite you to explore my professional portfolio, which features a collection of my projects. You can access the portfolio via the following link
+[Portfolio](https://oluwatobiakintokun.github.io/)
+[Portfolio](https://github.com/OluwatobiAkintokun?tab=repositories)
 
 # Connect with me 🌐
 [LinkedIn](https://www.linkedin.com/in/oluwatobi-akintokun-63055712a/)
