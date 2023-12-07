@@ -15,10 +15,11 @@ Data Collection | Data Cleaning | Data Analysis | Data Visualization | Data Repo
 Microsoft Excel | SQL | Power BI | Tableau | Python
 
 # Projects 📈
+I invite you to explore my portfolio, which features a collection of my projects. You can access the portfolio via the following link:
 
-I invite you to explore my professional portfolio, which features a collection of my projects. You can access the portfolio via the following link
 [Portfolio](https://oluwatobiakintokun.github.io/)
-[Portfolio](https://github.com/OluwatobiAkintokun?tab=repositories)
+
+[Projects](https://github.com/OluwatobiAkintokun?tab=repositories)
 
 # Connect with me 🌐
 [LinkedIn](https://www.linkedin.com/in/oluwatobi-akintokun-63055712a/)
