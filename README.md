@@ -21,6 +21,8 @@ I invite you to explore my portfolio, which features a collection of my projects
 
 [Projects](https://github.com/OluwatobiAkintokun?tab=repositories)
 
+[Interactive Dashboards](https://github.com/OluwatobiAkintokun/INTERACTIVE-DASHBOARDS?tab=readme-ov-file)
+
 # Connect with me 🌐
 [LinkedIn](https://www.linkedin.com/in/oluwatobi-akintokun-63055712a/)
 
