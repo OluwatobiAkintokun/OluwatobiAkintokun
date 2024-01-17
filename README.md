@@ -36,6 +36,8 @@ I invite you to explore my portfolio, which features a collection of my projects
 
 [Google Data Analytics](https://coursera.org/share/daa880d1362bae387e1b547274ab6e74)
 
+[Google Analytics Certification](https://skillshop.credential.net/5d1088be-6ba8-4fcb-a70e-7493ee1d62a0)
+
 [CISCO Data Analytics Essentials](https://www.credly.com/badges/fcec739e-dc5f-4448-a189-60831532ab6d/public_url)
 
 [PWC Power BI](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_PQPpMDNdiqtYfQEcD_1693525737863_completion_certificate.pdf)
